@@ -16,5 +16,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://oicramkroll.github.io/fantasyacast-rss/podcast-cover-1400.png"/>
     <atom:link href="https://oicramkroll.github.io/fantasyacast-rss/feed.xml" rel="self" type="application/rss+xml"/>
-  </channel>
+  
+<item>
+      <title>A Floresta dos Sons Perdidos</title>
+      <description>Lila, uma menina curiosa, desbrava a misteriosa Floresta dos Sons Perdidos onde o silêncio domina. Ao encontrar uma caixa mágica que guarda sons e memórias esquecidas, ela decide devolver a música ao mundo, trazendo alegria e vida de volta à sua vila em uma jornada cheia de magia e esperança.</description>
+      <link>https://archive.org/download/fantasyacast-20251014/2025/10/14/a-floresta-dos-sons-perdidos.mp3</link>
+      <guid isPermaLink="false">fantasyacast-1760493915687</guid>
+      <pubDate>Wed, 15 Oct 2025 02:05:15 GMT</pubDate>
+      <enclosure url="https://archive.org/download/fantasyacast-20251014/2025/10/14/a-floresta-dos-sons-perdidos.mp3" type="audio/mpeg" length="2211072" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:image href="https://oicramkroll.github.io/fantasyacast-rss/podcast-cover-1400.png"/>
+      <itunes:summary>Lila, uma menina curiosa, desbrava a misteriosa Floresta dos Sons Perdidos onde o silêncio domina. Ao encontrar uma caixa mágica que guarda sons e memórias esquecidas, ela decide devolver a música ao mundo, trazendo alegria e vida de volta à sua vila em uma jornada cheia de magia e esperança.</itunes:summary>
+    </item>
+</channel>
 </rss>
