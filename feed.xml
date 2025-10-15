@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FantasyAcast — Mini Histórias</title>
+    <link>https://oicramkroll.github.io/fantasyacast-rss/</link>
+    <language>pt-BR</language>
+    <itunes:author>FantasyAcast</itunes:author>
+    <itunes:owner>
+      <itunes:name>FantasyAcast</itunes:name>
+      <itunes:email>seu-email@dominio.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Fiction"/>
+    <description>Contos curtos de fantasia/ficção, publicados diariamente.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://oicramkroll.github.io/fantasyacast-rss/podcast-cover-1400.png"/>
+    <atom:link href="https://oicramkroll.github.io/fantasyacast-rss/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
